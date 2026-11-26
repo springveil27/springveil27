@@ -25,14 +25,21 @@
 
 </div>
 
-## 🐍 Mi actividad
+
+## 🎮 Mi actividad
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/springveil27/springveil27/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/springveil27/springveil27/output/github-snake.svg" />
-  <img alt="Tabla de contribuciones animada" src="https://raw.githubusercontent.com/springveil27/springveil27/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/springveil27/springveil27/output/pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/springveil27/springveil27/output/pacman.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/springveil27/springveil27/output/pacman.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/springveil27/springveil27/output/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/springveil27/springveil27/output/breakout.svg" />
+  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/springveil27/springveil27/output/breakout.svg" />
 </picture>
 
 </div>
