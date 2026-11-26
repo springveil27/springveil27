@@ -31,16 +31,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/springveil27/springveil27/output/pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/springveil27/springveil27/output/pacman.svg" />
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/springveil27/springveil27/output/pacman.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/springveil27/springveil27/output/breakout-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/springveil27/springveil27/output/breakout-contribution-graph.svg" />
+   <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/springveil27/springveil27/output/breakout-contribution-graph.svg" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/springveil27/springveil27/output/breakout-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/springveil27/springveil27/output/breakout.svg" />
-  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/springveil27/springveil27/output/breakout.svg" />
-</picture>
+
 
 </div>
 
